@@ -1,16 +1,14 @@
-# gitblog
+# hi-jin.github.io
 
-A new Flutter project.
+Flutter web으로 밑바닥부터 만드는 블로그
 
-## Getting Started
+## 목표
 
-This project is a starting point for a Flutter application.
+- [ ] 자기소개용 개인 홈페이지
+- [ ] markdown 작성을 통한 블로그 게시글 작성 기능
+- [ ] 누구나 fork 하여 큰 수정 없이 사용할 수 있는 블로그 템플릿
 
-A few resources to get you started if this is your first Flutter project:
+## 기술
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Git, GitHub Actions
+- Flutter
