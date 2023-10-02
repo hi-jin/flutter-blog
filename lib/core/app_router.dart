@@ -12,7 +12,10 @@ final routerProvider = Provider<GoRouter>(
           return SelectionArea(
             child: Scaffold(
               appBar: AppBar(),
-              body: child,
+              body: Padding(
+                padding: const EdgeInsets.all(20),
+                child: child,
+              ),
             ),
           );
         },
