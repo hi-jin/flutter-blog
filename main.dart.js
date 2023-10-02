@@ -74415,7 +74415,7 @@ SS(a){var s=0,r=A.S(t.nm),q,p,o,n,m,l,k,j
 var $async$$1=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:j=B.bp
 s=3
-return A.a2($.UO().aex("settings/core.json"),$async$$1)
+return A.a2($.UO().aex("assets/settings/core.json"),$async$$1)
 case 3:m=j.Ou(0,c,null)
 l=J.an(m)
 k=A.bY(l.i(m,"userName"))
