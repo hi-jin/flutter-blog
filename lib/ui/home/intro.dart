@@ -12,7 +12,7 @@ class Intro extends StatelessWidget {
         UserProfile(radius: 150),
         SizedBox(height: 20),
         SizedBox(
-          width: 400,
+          width: 300,
           child: UserDesc(),
         ),
       ],
